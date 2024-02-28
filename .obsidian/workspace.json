@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4f49990d18ce19eb",
+        "id": "3258662188e52a03",
         "type": "tabs",
+        "dimension": 47.20812182741117,
         "children": [
           {
-            "id": "622aed7776ee10b4",
+            "id": "bd460fc3f91b5366",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vuejs/computed properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0d5271671e0e6f9a",
+        "type": "tabs",
+        "dimension": 52.79187817258884,
+        "children": [
+          {
+            "id": "df08441f72def49c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -132,14 +154,26 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "622aed7776ee10b4",
+  "active": "df08441f72def49c",
   "lastOpenFiles": [
+    "vuejs/computed properties.md",
+    "vuejs/conditional rendering.md",
+    "javascript/ternary operator  (?).md",
+    "quasi convex function.md",
+    "javascript",
+    "vuejs/vuejs.md",
+    "optimization framework.md",
+    "stopping conditions.md",
+    "ul element.md",
+    "Untitled.md",
+    "convex set.md",
+    "vuejs",
+    "convex function.md",
     "README.md",
     "canvasses",
     "Untitled.canvas"

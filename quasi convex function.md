@@ -1,4 +1,4 @@
-$f(x)$ is considered quasi convex if:
+scripts$f(x)$ is considered quasi convex if:
 1. Domain of $f(x)$ is a convex set
 2. $\forall x,y \in dom(f(x))$ and $0\leq\lambda\leq1$ there holds: $$ f((1-\lambda)x+\lambda y)\leq \max (f(x),f(y))$$
 note that for a [[convex function]] and a [[quasi convex function]] **both require a convex function domain**. The difference lies in that a quasi convex function may be convex, but is not necessarily so. e.g.:![[quasiConvexFunction.png]]
